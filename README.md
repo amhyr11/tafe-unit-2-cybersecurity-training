@@ -22,6 +22,7 @@ I'm currently learning **HTML, CSS, Git and GitHub**, so this project let me put
 
 - HTML
 - CSS
+- Javascript
 - Git
 - GitHub
 - GitHub Pages

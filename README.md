@@ -4,7 +4,7 @@
 
 > A cybersecurity awareness training website I independently built from scratch alongside my TAFE coursework while learning web development.
 
-### 🌐 [View the Live Website →](YOUR-GITHUB-PAGES-LINK)
+### 🌐 [View the Live Website →](https://amhyr11.github.io/tafe-unit-2-cybersecurity-training/)
 
 ![GOHelp homepage](./images/gohelp-page-overview.gif)
 
